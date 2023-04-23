@@ -5,6 +5,5 @@ Features:
 Recursive backtracking algorithm
 Solves a 9x9 Sudoku puzzle
 Easy to customize for different puzzles
-Please feel free to customize the description and title as per your liking. Good luck!
 
 Made by 9 crappy discord-reddit members i found on reddit :)
